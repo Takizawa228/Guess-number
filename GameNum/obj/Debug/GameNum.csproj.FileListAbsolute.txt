@@ -1,7 +1,0 @@
-C:\Users\Кирилл\source\repos\GameNum\GameNum\bin\Debug\GameNum.exe.config
-C:\Users\Кирилл\source\repos\GameNum\GameNum\bin\Debug\GameNum.exe
-C:\Users\Кирилл\source\repos\GameNum\GameNum\bin\Debug\GameNum.pdb
-C:\Users\Кирилл\source\repos\GameNum\GameNum\obj\Debug\GameNum.csproj.AssemblyReference.cache
-C:\Users\Кирилл\source\repos\GameNum\GameNum\obj\Debug\GameNum.csproj.CoreCompileInputs.cache
-C:\Users\Кирилл\source\repos\GameNum\GameNum\obj\Debug\GameNum.exe
-C:\Users\Кирилл\source\repos\GameNum\GameNum\obj\Debug\GameNum.pdb
