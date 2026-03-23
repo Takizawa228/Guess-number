@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GameNum
 {
@@ -85,7 +79,6 @@ namespace GameNum
             bool flag = false;
             while(!flag)
             {
-                //guessNum = GetPlayerGuess();
                 bool res = ValidateGuess(guessNum, min, max);
 
                 if (res == false)
@@ -105,14 +98,12 @@ namespace GameNum
                         Console.WriteLine($"Количество баллов: {points}");
 
                         flag = NewGame();
-
                     }
                     else
                     {
                         points--;
 
                         Console.WriteLine($"У вас осталось баллов: {points}");
-                        //if (points <= 0) { break; }
                        
                         guessNum = GetPlayerGuess();
                     }
